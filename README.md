@@ -12,7 +12,9 @@ Welcome to the sample GitHub ReadME! Use this template as an outline for your da
 
 
 # Project Background
-Backround about the company, including the industry, active years, business model, and key business metrics. Explain this from the POV of a data analyst who is working at the company.
+According to Our World in Data, the Philippines over the past 3 decades had one of the highest emigration rates in Southeast Asia based on the growth rate of its diaspora population (i.e., the population born in the Philippines but have since moved out and live in another country). While not the highest in Southeast Asia, it is higher than the world average and the Asian average.
+
+<img src="https://github.com/Francis-Calingo/Socioeconomic-Analysis-of-The-Philippines/blob/main/Figures/Figure1.1.png"/>
 
 Insights and recommendations are provided on the following key areas:
 
@@ -39,7 +41,10 @@ The companies main database structure as seen below consists of four tables: tab
 
 [Entity Relationship Diagram here]
 
-
+```bash
+git clone https://github.com/Francis-Calingo/Socioeconomic-Analysis-of-The-Philippines.git
+cd Socioeconomic-Analysis-of-The-Philippines
+```
 
 # Executive Summary
 
