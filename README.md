@@ -7,7 +7,7 @@
 * [Insights Deep Dive](#insights-deep-dive)
 * [Recommendations](#recommendations)
 * [Assumptions and Caveats](#assumptions-and-caveats)
-
+* [Credits and Acknowledgements](#credits-and-acknowledgements)
 
 # Project Background
 According to Our World in Data, the Philippines over the past 3 decades had one of the highest emigration rates in Southeast Asia based on the growth rate of its diaspora population (i.e., the population born in the Philippines but have since moved out and live in another country). While not the highest in Southeast Asia, it is higher than the world average and the Asian average. (Keep in mind that the plot purposely excluded Myanmar, as the initial plot showed that its diaspora growth rate was disporportionately higher than the other entries, largely due to a major civil war and refugee crisis, two factors that are not as apparent in other Southeast Asian countries).
@@ -31,6 +31,8 @@ An interactive Tableau dashboard used to report and explore sales trends can be 
 
 [click me to download](https://github.com/Francis-Calingo/CATEGORICAL-SOCIOECONOMIC-DATA-ANALYSIS-OF-CANADIAN-REGIONS/raw/refs/heads/main/Census_Division_Stats_-_Sheet1.csv)
 
+[<b>Back to Table of Contents</b>](#table-of-contents)
+
 # Data Structure and Initial Checks
 
 The companies main database structure as seen below consists of four tables: table1, table2, table3, table4, with a total row count of X records. A description of each table is as follows:
@@ -41,10 +43,13 @@ The companies main database structure as seen below consists of four tables: tab
 
 [Entity Relationship Diagram here]
 
+If you'd like to fork or run this locally:
+
 ```bash
 git clone https://github.com/Francis-Calingo/Socioeconomic-Analysis-of-The-Philippines.git
 cd Socioeconomic-Analysis-of-The-Philippines
 ```
+[<b>Back to Table of Contents</b>](#table-of-contents)
 
 # Executive Summary
 
@@ -54,10 +59,10 @@ The following image below shows a static screenshot of the deployed dashboard, f
 
 [Visualization, including a graph of overall trends or snapshot of a dashboard]
 
-
+[<b>Back to Table of Contents</b>](#table-of-contents)
 
 # Insights Deep Dive
-### Category 1:
+### Extreme Poverty Incidence:
 
 * **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
@@ -70,7 +75,7 @@ The following image below shows a static screenshot of the deployed dashboard, f
 [Visualization specific to category 1]
 
 
-### Category 2:
+### Wage Gap:
 
 * **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
@@ -83,7 +88,7 @@ The following image below shows a static screenshot of the deployed dashboard, f
 [Visualization specific to category 2]
 
 
-### Category 3:
+### Economic Inequality:
 
 * **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
@@ -96,7 +101,7 @@ The following image below shows a static screenshot of the deployed dashboard, f
 [Visualization specific to category 3]
 
 
-### Category 4:
+### Inflation:
 
 * **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
@@ -108,7 +113,7 @@ The following image below shows a static screenshot of the deployed dashboard, f
 
 [Visualization specific to category 4]
 
-
+[<b>Back to Table of Contents</b>](#table-of-contents)
 
 # Recommendations:
 
@@ -124,7 +129,7 @@ Based on the insights and findings above, we have established the following publ
   
 * The Philippines continues to face incredibly high inflation rates across all indices, not just in absolute terms but also in relative terms. **Any future measures taken to mitigate inflation must ensure that prices for consumers remain reasonable and affordable.**
   
-
+[<b>Back to Table of Contents</b>](#table-of-contents)
 
 # Assumptions and Caveats:
 
@@ -138,5 +143,9 @@ Throughout the analysis, multiple assumptions were made to manage challenges wit
 
 * Nor should this project be interpreted as an endorsement of the economic metric used in this project (e.g., the Gini Coefficient, the IHDI). These measures were selected to help give a better understanding of the Philippines' socioeconomic standing in comparison to other countries, but more comprehensive socioeconomic analysis should not simply use economic indices without having some critique and analysis of their methodologies.
 
+[<b>Back to Table of Contents</b>](#table-of-contents)
 
+# Credits and Acknowledgements:
+
+[<b>Back to Table of Contents</b>](#table-of-contents)
 
