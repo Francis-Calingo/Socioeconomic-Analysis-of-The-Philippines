@@ -43,6 +43,23 @@ The companies main database structure as seen below consists of four tables: tab
 
 [Entity Relationship Diagram here]
 
+https://github.com/Francis-Calingo/Visualizing-Migration-in-Canada/raw/refs/heads/main/Recent%20Immigrants%20CMA.csv
+https://github.com/Francis-Calingo/Socioeconomic-Analysis-of-The-Philippines/raw/refs/heads/Datasets%20Sourced%20from%20Web/inequality-adjusted-human-development-index.csv
+
+
+| Data Content  | Number of Entries (Records x Field) | Number of Records  | Number of Fields | Download File Link |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| Share of Population in Extreme Poverty | **10,842**  | 2706  | 4  | [Download](https://github.com/Francis-Calingo/Socioeconomic-Analysis-of-The-Philippines/raw/refs/heads/Datasets%20Sourced%20from%20Web/share-of-population-in-extreme-poverty.csv)  |
+|   | ****  |   |   | [Download]() |
+|  Inequality-Adjusted Human Development Index | **8756**  | 2189  | 4 | [Download](https://github.com/Francis-Calingo/Socioeconomic-Analysis-of-The-Philippines/raw/refs/heads/Datasets%20Sourced%20from%20Web/inequality-adjusted-human-development-index.csv) |
+| GDP Per-Capita | **28,256**  |  7064 | 4  | [Download](https://github.com/Francis-Calingo/Socioeconomic-Analysis-of-The-Philippines/raw/refs/heads/Datasets%20Sourced%20from%20Web/gdp-per-capita-worldbank.csv) |
+|  Gini Coefficient | **28,392**  | 9464  | 3  | [Download](https://github.com/Francis-Calingo/Socioeconomic-Analysis-of-The-Philippines/raw/refs/heads/Datasets%20Sourced%20from%20Web/gini-coefficient.csv)  |
+|   | ****  |   |   | [Download]() |
+|  | ****  |   |   | [Download]()  |
+|   | ****  |   |   | [Download]()  |
+|  | ****  |   |   | [Download]()  |
+| **TOTAL** | ****  |   |   | N/A  |
+
 If you'd like to fork or run this locally:
 
 ```bash
